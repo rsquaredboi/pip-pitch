@@ -1,0 +1,28 @@
+// index -> {cat, note}
+window.PIP_ASSETS = {
+ 1:['product','hero on linen'],2:['product','vs AirTag scale'],3:['airtag','was vs is'],4:['airtag','comparison card'],
+ 5:['car','wheel-arch placement'],6:['teen','kitchen map'],7:['pet','retriever collar'],8:['parent','walk with cane'],
+ 9:['meme','reddit quietdad'],10:['bike','vespa lisbon'],11:['airtag','3 devices'],12:['app','know dont wonder'],
+ 13:['product','packaging'],14:['travel','luggage'],15:['car','thieves check'],16:['kid','backpack'],
+ 17:['proof','e-bike testimonial'],18:['bike','cargo e-bike'],19:['meme','things i put a pip on'],20:['toys','boat trailer'],
+ 21:['product','5 colorways'],22:['offer','$14 never ask'],23:['parent','safe zone bench'],24:['airtag','story split'],
+ 25:['brand','until you do'],26:['teen','first car handover'],27:['meme','imessage chick-fil-a'],28:['pet','frenchie beach'],
+ 29:['car','tracker thieves cant hear'],30:['parent','buick'],31:['brand','same tech different taste'],32:['ugc','pov bf car'],
+ 33:['toys','camper van'],34:['proof','stats card'],35:['bike','campus bike'],36:['product','macro'],
+ 37:['app','her whole day'],38:['parent','coat pocket'],39:['meme','tweet nice parking'],40:['car','porsche workshop'],
+ 41:['airtag','thief iphone alert'],42:['teen','busted'],43:['app','wheres the car story'],44:['product','fridge magnet'],
+ 45:['offer','gift'],46:['pet','cat garden'],47:['offer','cheaper than deductible'],48:['bike','cafe racer'],
+ 49:['airtag','the airtag problem editorial'],50:['kid','stroller'],51:['product','accessories'],52:['brand','where is your car'],
+ 53:['parent','handbag'],54:['app','arrived every time'],55:['car','ev pickup'],56:['airtag','carousel 1/3'],
+ 57:['airtag','carousel 2/3'],58:['airtag','carousel 3/3'],59:['toys','horse trailer'],60:['meme','reasons notes app'],
+ 61:['toys','fishing boat'],62:['brand','know where it is hero'],63:['travel','tote bag'],64:['meme','reddit trailer'],
+ 65:['parent','coastal hike'],66:['product','spec sheet'],67:['bike','courier scooter'],68:['ugc','phone charger dad'],
+ 69:['car','glovebox'],70:['bike','barcelona scooter'],71:['product','in hand'],72:['brand','just not ugly'],
+ 73:['brand','founder letter'],74:['teen','mazda'],75:['airtag','3 things nobody tells you'],76:['kid','running belt'],
+ 77:['offer','insurer 6 weeks'],78:['kid','helmet'],79:['meme','ig poll 3am'],80:['product','entryway'],
+ 81:['brand','silent'],82:['toys','jet ski'],83:['product','unboxing'],84:['app','night drive'],
+ 85:['offer','coffee a week'],86:['parent','brunch'],87:['app','notification stack'],88:['toys','airstream'],
+ 89:['brand','3am dark'],90:['travel','surfboard'],91:['product','terracotta'],92:['product','butter'],
+ 93:['product','charcoal'],94:['proof','dementia testimonial'],95:['car','tesla fuel door'],96:['brand','car kid dog bike mom'],
+ 97:['brand','wont hide in a drawer'],98:['kid','county fair'],99:['airtag','same subscription gift'],100:['brand','key visual']
+};
